@@ -24,6 +24,6 @@ Currently working on building a project portfolio for github, so I'll code whate
 
 ---
 ### About me ###
-- 🐕 My dog is called "goyo" (yes without the initial uppercase).
+- 🐕 My dog's name "goyo" (yes without the initial uppercase).
 - 🎸 I play guitar and sing... a bit.
 - 🖥️ Love building PCs, and I'm currently experimenting with linux distros.
